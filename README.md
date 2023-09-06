@@ -19,5 +19,5 @@ To reproduce the results, follow these steps:
 1. Clone the repository.
 2. Install the required packages.
 3. Download the PTB-XL dataset and place it in the appropriate directory.
-4. Run the provided notebook.
+4. Run the provided notebooks.
 
